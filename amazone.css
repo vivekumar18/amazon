@@ -1,0 +1,249 @@
+
+.main{
+    height: 60px;
+    width: 1220px;
+    background-color:rgba(0, 0, 0, 0.934)
+}
+.search{
+    height: 40px;
+    width: 420px;
+    background-color: rgb(227, 172, 83);
+     position:relative;
+     top: -45px;
+     left: 400px;
+     border-radius: 4px 4px 4px 4px;
+}
+.search:hover{
+    background-color: rgb(158, 124, 69);;
+}
+.lan{
+    height: 45px;
+    width: 60px;
+    margin-top:-82px ;
+    margin-left: 430px;
+}
+.lan:hover{
+    border: 1px solid white;
+}
+.hlw{
+    height: 45px;
+    width: 105px;
+    margin-top:-47px ;
+    margin-left: 500px;
+}
+.hlw:hover{
+    border: 1px solid white;
+}
+.order{
+    height: 45px;
+    width: 90px;
+    margin-top:-48px ;
+    margin-left: 620px;
+}
+.order:hover{
+    border: 1px solid white;
+}
+.kart{
+    height: 45px;
+    width: 90px;
+    margin-top:-50px ;
+    margin-left: 720px;
+}
+.kart:hover{
+    border: 1px solid white;
+}
+.add{
+    height: 45px;
+  width: 155px;
+  margin-top:-45px ;
+  margin-left: -165px;
+}
+.add:hover{
+border: 1px solid white;
+}
+.main2{
+    height: 50px;
+    width: 1220px;
+    background-color:#21293a
+}
+.all{
+height: 48px;
+width: 60px;
+margin-left: 2px;
+
+}
+.all:hover{
+    border: 1px solid white;
+}
+.mini{
+    height: 48px;
+    width: 140px;
+    margin-left: 7px;
+    position: relative;
+    top: -48px;
+    left: 58px;
+    }
+ .mini:hover{
+        border: 1px solid white;
+    }
+.sell{
+    height: 48px;
+    width: 50px;
+    margin-left: 7px;
+    position: relative;
+    top: -96px;
+    left: 195px;
+     }
+.sell:hover{
+    border: 1px solid white;
+    }
+
+.best{
+    height: 48px;
+    width: 130px;
+    margin-left: 7px;
+     position: relative;
+     top: -145px;
+    left: 247px;
+        }
+.best:hover{
+    border: 1px solid white;
+            }
+.today{
+    height: 48px;
+    width: 130px;
+    margin-left: 7px;
+    position: relative;
+    top: -192px;
+    left: 380px;
+    }
+.today:hover{
+     border: 1px solid white;
+                    }
+.mob{
+    height: 48px;
+    width: 110px;
+    margin-left: 7px;
+    position: relative;
+    top: -240px;
+    left: 512px;
+     }
+.mob:hover{
+    border: 1px solid white;
+         }
+.new{
+    height: 48px;
+    width: 115px;
+    margin-left: 7px;
+     position: relative;
+    top: -289px;
+    left: 625px;
+             }
+.new:hover{
+    border: 1px solid white;
+                 }
+.costomer{
+    height: 48px;
+    width: 80px;
+    margin-left: 7px;
+     position: relative;
+    top: -337px;
+    left: 743px;
+             }
+.costomer:hover{
+    border: 1px solid white;
+                 } 
+.lunch{
+    height: 48px;
+    width: 350px;
+    margin-left: 7px;
+    position: relative;
+    top: -384px;
+    left: 845px;
+  } 
+.lunch:hover  {
+    border: 1px solid white;
+}            
+.n1{
+    height: 340px;
+    width: 295px;
+   background-color: white;
+    margin-top: -260px;
+}               
+.n2{
+    height: 340px;
+    width: 295px;
+   background-color: white;
+   position: relative;
+   top: -360px;
+   left: 300px;
+}           
+.n3{
+    height: 340px;
+    width: 295px;
+   background-color: white;
+   position: relative;
+   top: -720px;
+   left: 600px;
+}      
+.n4{
+    height: 340px;
+    width: 305px;
+   background-color: white;
+   position: relative;
+   top: -1077px;
+   left: 900px;
+}  
+.n5{
+    height: 340px;
+    width: 300px;
+   background-color: white;
+   position: relative;
+   top: -1440px;
+   left: 595px;
+}         
+.n6{
+    height: 340px;
+    width: 295px;
+   background-color: white;
+   position: relative;
+   top: -1800px;
+   left:295px;
+}   
+.n7{
+    height: 340px;
+    width: 294px;
+   background-color: white;
+   position: relative;
+   top: -2160px;
+   left:-2px;
+} 
+.n8{
+    height: 250px;
+    width: 1220px;
+   background-color:white;
+   position: absolute;
+  margin-top: -2140px;
+}  
+.n9{
+    height: 330px;
+    width: 1220px;
+   background-color:white;
+   position: absolute;
+  margin-top: -1870px;
+}  
+         
+              
+         
+                      
+              
+         
+                       
+                           
+                             
+                       
+                
+                
+                        
+
+                
